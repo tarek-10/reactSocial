@@ -1,9 +1,7 @@
-import React from 'react'
-import "./Rightbar.css"
+import React from "react";
+import "./Rightbar.css";
 const Rightbar = () => {
-  return (
-    <div className='rightbar'>Rightbar</div>
-  )
-}
+  return <div className="rightbar">Rightbar</div>;
+};
 
-export default Rightbar
+export default Rightbar;
