@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300;1,400&family=Roboto:ital@1&family=Smooch+Sans:wght@100&family=The+Girl+Next+Door&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300;1,400&family=Roboto:ital@1&family=Smooch+Sans:wght@100&family=The+Girl+Next+Door&display=swap");
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
-

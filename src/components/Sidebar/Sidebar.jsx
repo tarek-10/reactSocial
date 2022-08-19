@@ -55,36 +55,64 @@ const Sidebar = () => {
         </ul>
 
         <button className="sidebarButton">Show More</button>
-        <hr className="sidebarHr"/>
+        <hr className="sidebarHr" />
         <ul className="sidebarFriendList">
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
-            <li className="sidebarFriend">
-                <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
-                <span className="sidebarFriendName">tamer Mohame</span>
-            </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohame</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="/assets/person/2.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">tamer Mohamed</span>
+          </li>
         </ul>
       </div>
     </div>
